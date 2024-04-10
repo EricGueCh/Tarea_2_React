@@ -1,0 +1,18 @@
+.card-rickandmorty{
+    background-color: aquamarine;
+    text-align: center;
+}
+.card-rickandmorty:hover{
+    background-color: chartreuse;
+}
+div h2{
+    text-align: center;
+}
+.footer-principal h1{
+    color: blueviolet;
+    text-align: center;
+}
+
+form{
+    text-align: center;
+}
